@@ -1,7 +1,11 @@
 ---
 title: Day 1
 output: html_document
+
 author: "Levi Rosendall"
+
+author: "Meghan Nash"
+
 ---
 
 # Example Text
